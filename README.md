@@ -1,4 +1,4 @@
-[![Donate](https://img.shields.io/badge/-%E2%99%A5%20Donate-%23ff69b4)](https://hmlendea.go.ro/fund.html) [![Latest GitHub release](https://img.shields.io/github/v/release/hmlendea/geforcenow-electron)](https://github.com/hmlendea/geforcenow-electron/releases/latest)
+[![Donate](https://img.shields.io/badge/-%E2%99%A5%20Donate-%23ff69b4)](https://hmlendea.go.ro/fund.html) [![Latest GitHub release](https://img.shields.io/github/v/release/hmlendea/geforcenow-electron)](https://github.com/hmlendea/geforcenow-electron/releases/latest) [![Build Status](https://github.com/hmlendea/geforcenow-electron/actions/workflows/node.js.yml/badge.svg)](https://github.com/hmlendea/geforcenow-electron/actions/workflows/node.js.yml)
 
 # About
 
